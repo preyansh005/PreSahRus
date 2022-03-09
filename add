@@ -1,0 +1,4 @@
+a=int(input("enter nuber"))
+b=int(input("enter nuber"))
+c=a+b
+print(c)
